@@ -1,0 +1,1 @@
+# The purpose of this project is to detect Tampering of Pancard using OpenCV and making a gradio app
