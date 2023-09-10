@@ -1,0 +1,11 @@
+langchain
+streamlit
+streamlit-extras
+faiss-cpu
+PyPDF2
+python-dotenv
+openai
+tiktoken
+tensorflow
+sentence-transformers
+InstructorEmbedding
